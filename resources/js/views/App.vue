@@ -1,5 +1,5 @@
 <template>
-    <div>
+    <div id="app">
         {{message}}
         <example-component></example-component>
     </div>
